@@ -1,0 +1,18 @@
+.wish_section{
+    padding: 90px 0 50px;
+    overflow: hidden;
+}
+.wish_section h2{
+    color: darkgreen;
+    padding: 50px;
+    font-size: 3.5rem;
+}
+
+.wish_section .item_rating{
+    color: darkgreen;
+}
+
+button{
+    background: none;
+    border: none;
+}

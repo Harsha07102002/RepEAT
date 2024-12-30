@@ -1,0 +1,10 @@
+
+.menu_section h2{
+    margin-top: 50px;
+}
+
+@media (max-width:992px){
+    .menu_section h2{
+        margin-top: 50px;
+    }
+}
