@@ -42,3 +42,11 @@
     }
 }
 
+@media (max-width:992px){
+    .blogs_section .category-item a{
+        padding: 10px 10px;
+    }
+    .blogs_section .category-item a{
+        margin: 5px;
+    }
+}
